@@ -4,22 +4,22 @@
    "grid":3,
    "ads admob":[
       {
-         "app_id":"",
-         "banner_id":"",
-         "interstials_id":"",
-         "reward_video_id":""
+         "app_id":"ca-app-pub-3940256099942544/3419835294",
+         "banner_id":"ca-app-pub-3940256099942544/6300978111",
+         "interstials_id":"ca-app-pub-3940256099942544/1033173712",
+         "reward_video_id":"ca-app-pub-3940256099942544/8691691433"
       },
       {
-         "app_id":"",
-         "banner_id":"",
-         "interstials_id":"",
-         "reward_video_id":""
+         "app_id":"ca-app-pub-3940256099942544/3419835294",
+         "banner_id":"ca-app-pub-3940256099942544/6300978111",
+         "interstials_id":"ca-app-pub-3940256099942544/1033173712",
+         "reward_video_id":"ca-app-pub-3940256099942544/8691691433"
       },
       {
-         "app_id":"",
-         "banner_id":"",
-         "interstials_id":"",
-         "reward_video_id":""
+         "app_id":"ca-app-pub-3940256099942544/3419835294",
+         "banner_id":"ca-app-pub-3940256099942544/6300978111",
+         "interstials_id":"ca-app-pub-3940256099942544/1033173712",
+         "reward_video_id":"ca-app-pub-3940256099942544/8691691433"
       }
    ],
    "ads face":[

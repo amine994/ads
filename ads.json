@@ -1,5 +1,6 @@
 {
    "ads switch":1,
+   "ads type":"admob",
    "time intervalle":20,
    "grid":3,
    "ads admob":[

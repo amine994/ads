@@ -2,7 +2,7 @@
    "ads switch":"2",
    "ads type":"admob",
    "time intervalle":"40000",
-   "grid":"4",
+   "grid":"3",
    "ads admob":[
       {
          "app_id":"ca-app-pub-3940256099942544/3419835294",

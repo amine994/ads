@@ -1,8 +1,8 @@
 {
-   "ads switch":"2",
+   "ads switch":"1",
    "ads type":"admob",
-   "time intervalle":"40000",
-   "grid":"3",
+   "time intervalle":"20",
+   "grid":"2",
    "ads admob":[
       {
          "app_id":"ca-app-pub-3940256099942544/3419835294",
@@ -23,7 +23,27 @@
          "reward_video_id":"ca-app-pub-3940256099942544/8691691433"
       }
    ],
-   "ads face":[
+   "ads applovin":[
+      {
+         "app_id":"",
+         "banner_id":"",
+         "interstials_id":"",
+         "reward_video_id":""
+      },
+      {
+         "app_id":"",
+         "banner_id":"",
+         "interstials_id":"",
+         "reward_video_id":""
+      },
+      {
+         "app_id":"",
+         "banner_id":"",
+         "interstials_id":"",
+         "reward_video_id":""
+      }
+   ],
+    "ads face":[
       {
          "app_id":"",
          "banner_id":"",
